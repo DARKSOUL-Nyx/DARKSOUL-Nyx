@@ -15,8 +15,8 @@ A recent Computer Science graduate with a deep passion for building **intelligen
 * 🌱 I’m focused on deepening my knowledge of **distributed systems** and production-level **MLOps pipelines** (a key skill for your AI Engineer goal!).
 * 💡 I love tackling challenging problems, whether it's in competitive programming (Data Structures & Algorithms) or designing a system from the ground up.
 * 🎯 I'm **actively seeking opportunities** for remote roles in **AI Engineering**, Software Engineering, Machine Learning, or Data Analytics.
-<p align="right">
-  <img src="https://media.giphy.com/media/LmNl893Zg9t9wV2w2z/giphy.gif" width="100"/>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNsb2J4OTg4bXR6NmE4dmZpbWJucm9zcXdtbm1hZnF1eGVmeGY1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="300"> 
 </p>
 
 ---
@@ -74,34 +74,12 @@ Here are some of the technologies I'm proficient with. (Focusing the title on *p
 - **Drone-Based Object Detection Simulation**: A project integrating Unreal Engine, AirSim, and a YOLOv8 model for real-time detection in a simulated environment.
 - **DSA Problem Tracker**: A personal dashboard built with a web frontend and Google Sheets as a database to track my progress on Data Structures and Algorithms problems.
 - **FinTech Advisor Concept (WealthWing)**: An agentic AI concept brainstormed for a hackathon to provide personalized financial advice.
-<p align="center">
-  <img src="https://media.giphy.com/media/wM9Cq1S6J98D6/giphy.gif" width="200" alt="Code/Data visualization"/>
-</p>
 
 ---
-### 📊 GitHub Activity
+### 🌐 System Engineering & Data Flow Focus
 
-*(The stats rendering issue you mentioned is often due to the GitHub server cache, but putting the images in a stable table structure, as you had, is the best practice.)*
+> "Building reliable, low-latency applications is the core of MLOps."
 
-<p align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <a href="https://github.com/DARKSOUL-Nyx">
-          <img src="https://github-readme-stats.vercel.app/api?username=DARKSOUL-Nyx&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DARKSOUL-Nyx">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKSOUL-Nyx&layout=compact&theme=tokyonight" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DARKSOUL-Nyx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARKSOUL-Nyx&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
+* **Real-time Streaming:** Proficient with Apache Kafka for high-throughput data pipelines.
+* **Container Orchestration:** Deploying services using Docker and Kubernetes (K8s).
+* **Cloud Infrastructure:** Hands-on experience with AWS (S3, EC2) for scalable hosting.
